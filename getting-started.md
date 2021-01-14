@@ -4,9 +4,8 @@ Welcome to your new foam workspace, let's get you started.
 
 Let's go through this to set up your repo:
 
-- [ ] you can navigate the links between your notes by `cmd+click` (or `ctrl+click` on Windows) on a wikilink. Here, go to your [[inbox]]
-
-- [ ] to see how your notes are connected, execute the `Foam: Show Graph` command
+- [x] you can navigate the links between your notes by `cmd+click` (or `ctrl+click` on Windows) on a wikilink. Here, go to your [[inbox]]
+- [x] to see how your notes are connected, execute the `Foam: Show Graph` command
   - **tip** - `cmd+click` on a node to navigate to it
   - **tip** - keep the graph open. As you navigate your files, it will focus on the active note, so you can at a glance see how it's connected in your knowledge base
 
